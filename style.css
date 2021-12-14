@@ -1,0 +1,21 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#btn {
+    position: sticky;
+    top: 0;
+    float:right;
+    margin-right: 4.7em;
+    background-color: maroon;
+    padding: 0.5em;
+    border-radius: 10px;
+    top: 25px;
+    color:grey;
+  }
+#btn a{
+    color:rgb(223, 209, 209);
+    text-decoration: none;
+}
+#btn:hover{
+    transform: scale(0.9);
+}
